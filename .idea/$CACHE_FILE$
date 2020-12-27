@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/caching" value="PREVIEW" />
+        <entry key="$USER_HOME$/sse/svc-customer-request" value="PREVIEW" />
+        <entry key="$USER_HOME$/sse/svc-fraud-assessment" value="PREVIEW" />
+        <entry key="$USER_HOME$/sse/svc-pending-order-bim-ds-check" value="PREVIEW" />
+        <entry key="$USER_HOME$/sse/svc-presentation-fraud-assessment-order" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/servicestatus" value="PREVIEW" />
+        <entry key="$USER_HOME$/workspace/smarthelp-svc-selfservice" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
